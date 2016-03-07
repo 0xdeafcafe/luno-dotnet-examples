@@ -1,6 +1,8 @@
 ﻿{
-  "projects": [ "examples" ],
-  "sdk": {
-    "version": "1.0.0-rc1-update1"
-  }
+	"projects": [ "examples" ],
+	"sdk": {
+		"version": "1.0.0-rc1-update1",
+		"runtime": "coreclr",
+		"architecture": "x86"
+	}
 }
